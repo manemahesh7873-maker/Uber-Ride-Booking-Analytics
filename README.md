@@ -1,4 +1,4 @@
-# Ride Booking Analytics
+# Uber Ride Booking Analytics
 
 ## Project Overview
 An end-to-end ride booking analytics project using Python and Power BI to understand booking performance, ride outcomes, cancellations, vehicle demand, booking value, ratings, and location-level activity.
@@ -24,7 +24,7 @@ The project uses the original `ncr_ride_bookings.csv` dataset. The original file
 
 ## Repository Structure
 ```
-Ride-Booking-Analytics/
+Uber-Ride-Booking-Analytics/
 ├── README.md
 ├── Dataset/
 │   └── ncr_ride_bookings.csv
@@ -37,7 +37,7 @@ Ride-Booking-Analytics/
 ```
 
 ## Interview Summary
-**Project:** Ride Booking Analytics  
+**Project:** Uber Ride Booking Analytics  
 **Tools:** Python + Power BI  
 **KPIs:** Total Bookings, Completed Rides, Cancellations, Total Booking Value, Average Ride Distance, Customer Rating, Driver Rating  
 **Analysis:** Booking trends, vehicle demand, cancellations, booking value, locations and ride performance
